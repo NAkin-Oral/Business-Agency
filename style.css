@@ -27,6 +27,7 @@ html {
   z-index: 10;
   animation: animateNavbar 1s 0.5s forwards;
   transition: height 0.5s;
+  overflow: hidden;
 }
 
 .navbar.change {
